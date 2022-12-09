@@ -19,4 +19,13 @@ matching-strategy: ANT_PATH_MATCHER
 @Api
 @ApiOperation
 ```
+```
+使用spring-boot-starter-validation进行参数校验
+@Vaild
+@Vaildated
+@NUll @NotNull
+@Size
+@Max @Min
+@Email
+```
 
